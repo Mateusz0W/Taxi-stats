@@ -1,0 +1,3 @@
+C:/Users/mateu/OneDrive/Dokumenty/GitHub/Taxi-stats/build/CMakeFiles/Taxi.dir
+C:/Users/mateu/OneDrive/Dokumenty/GitHub/Taxi-stats/build/CMakeFiles/edit_cache.dir
+C:/Users/mateu/OneDrive/Dokumenty/GitHub/Taxi-stats/build/CMakeFiles/rebuild_cache.dir

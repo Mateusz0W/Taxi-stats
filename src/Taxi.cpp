@@ -25,3 +25,9 @@ double Taxi::VAT(){
 void Taxi::Print(){
     
 }
+double Taxi::GetIncome(int i){
+    return _incomes[i];
+}
+string Taxi::GetCompanyNames(int i){
+    return _Company_Names[i];
+}

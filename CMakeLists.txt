@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.1.0)
+cmake_minimum_required(VERSION 3.17)
 project (Taxi)
 
 # prevent for in-source building
@@ -11,7 +11,7 @@ endif ()
 add_definitions(-DPROJECTPATH=\"${PROJECT_SOURCE_DIR}\")
 
 set(CMAKE_BUILD_TYPE Debug) #Release
-set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_FLAGS_DEBUG_INIT "-Wall")
 set(CMAKE_CXX_FLAGS_RELEASE_INIT "-Wall")
