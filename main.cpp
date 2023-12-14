@@ -14,10 +14,8 @@ void WriteToFile(Taxi& myTaxi,string FileName){
         FileWrite<<"Calkowity przychod: "<<myTaxi.TotalIncome()<<endl;
         FileWrite<<"VAT do zwrocenia :"<<myTaxi.VAT()<<endl<<endl;
         FileWrite<<"------------------------\n\n";
-        for(int i=0;i<4;i++){
-            FileWrite<<"Przychod z "<<myTaxi.GetCompanyNames(i)<<":\n";
-            FileWrite<<myTaxi.GetIncome(i); 
-        }
+        for(int i=0;i<4;i++)
+            FileWrite<<"Przychod z "<<myTaxi.GetCompanyNames(i)<<": "<<myTaxi.GetIncome(i)<<endl;
         FileWrite<<"\n\n------------------------\n\n\n ";
         FileWrite.close();
     }
@@ -52,7 +50,8 @@ int main(void){
 
     string FileName="Stats.dat";
     if(filesystem::exists(FileName)){
-
+        WriteToFile(myTaxi,FileName);
+        ReadFromFile(myTaxi,FileName);
     }
     else{
        WriteToFile(myTaxi,FileName);

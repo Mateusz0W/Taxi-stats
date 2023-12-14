@@ -20,7 +20,7 @@ double Taxi::TotalIncome(){
     return sum;
 }
 double Taxi::VAT(){
-    return TotalIncome()*0,23 - _fuel_value*0,23;
+    return (TotalIncome()*0,23 - _fuel_value*0,23);
 }
 void Taxi::Print(){
     
