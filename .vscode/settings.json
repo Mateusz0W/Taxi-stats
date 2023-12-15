@@ -3,6 +3,9 @@
         "iostream": "cpp",
         "filesystem": "cpp",
         "ostream": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "iosfwd": "cpp",
+        "array": "cpp",
+        "fstream": "cpp"
     }
 }

@@ -12,11 +12,11 @@ class Taxi{
     public:
         void SetIncomes();
         void SetFuel();
-        void Print();
         double TotalIncome();
         double VAT();
         double GetIncome(int i);
         std::string GetCompanyNames(int i);
+        friend void Summary(Taxi& myTaxi,std::array<double,7>& SummaryData);
 
 };
 
