@@ -239,6 +239,7 @@ CMakeFiles/Taxi.dir/src/Taxi.cpp.obj: C:/Users/mateu/OneDrive/Dokumenty/GitHub/T
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/bits/range_access.h \
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/bits/std_abs.h \
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/bits/stl_algobase.h \
+  C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/bits/stl_bvector.h \
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/bits/stl_construct.h \
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/bits/stl_function.h \
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/bits/stl_iterator.h \
@@ -246,10 +247,13 @@ CMakeFiles/Taxi.dir/src/Taxi.cpp.obj: C:/Users/mateu/OneDrive/Dokumenty/GitHub/T
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/bits/stl_iterator_base_types.h \
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/bits/stl_pair.h \
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/bits/stl_relops.h \
+  C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/bits/stl_uninitialized.h \
+  C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/bits/stl_vector.h \
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/bits/streambuf.tcc \
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/bits/streambuf_iterator.h \
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/bits/string_view.tcc \
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/bits/stringfwd.h \
+  C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/bits/vector.tcc \
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/cctype \
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/cerrno \
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/clocale \
@@ -284,6 +288,7 @@ CMakeFiles/Taxi.dir/src/Taxi.cpp.obj: C:/Users/mateu/OneDrive/Dokumenty/GitHub/T
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/type_traits \
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/typeinfo \
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/utility \
+  C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/vector \
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/x86_64-w64-mingw32/bits/atomic_word.h \
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/x86_64-w64-mingw32/bits/c++allocator.h \
   C:/Users/mateu/Downloads/MinGW/include/c++/11.2.0/x86_64-w64-mingw32/bits/c++config.h \

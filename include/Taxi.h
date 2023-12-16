@@ -2,6 +2,7 @@
 #define TAXI_H
 
 #include <array>
+#include <vector>
 #include <string>
 
 class Taxi{
@@ -16,7 +17,7 @@ class Taxi{
         double VAT();
         double GetIncome(int i);
         std::string GetCompanyNames(int i);
-        friend void Summary(Taxi& myTaxi,std::array<double,7>& SummaryData);
+        friend void Summary(Taxi& myTaxi,std::vector<double>& SummaryData);
 
 };
 

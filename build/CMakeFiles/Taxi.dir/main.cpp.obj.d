@@ -27,9 +27,24 @@ CMakeFiles/Taxi.dir/main.cpp.obj: \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\debug\debug.h \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\predefined_ops.h \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\range_access.h \
+ c:\users\mateu\downloads\mingw\include\c++\11.2.0\vector \
+ c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\allocator.h \
+ c:\users\mateu\downloads\mingw\include\c++\11.2.0\x86_64-w64-mingw32\bits\c++allocator.h \
+ c:\users\mateu\downloads\mingw\include\c++\11.2.0\ext\new_allocator.h \
+ c:\users\mateu\downloads\mingw\include\c++\11.2.0\new \
+ c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\exception.h \
+ c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\memoryfwd.h \
+ c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\stl_construct.h \
+ c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\stl_uninitialized.h \
+ c:\users\mateu\downloads\mingw\include\c++\11.2.0\ext\alloc_traits.h \
+ c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\alloc_traits.h \
+ c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\stl_vector.h \
+ c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\stl_bvector.h \
+ c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\functional_hash.h \
+ c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\hash_bytes.h \
+ c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\vector.tcc \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\string \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\stringfwd.h \
- c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\memoryfwd.h \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\char_traits.h \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\postypes.h \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\cwchar \
@@ -52,11 +67,6 @@ CMakeFiles/Taxi.dir/main.cpp.obj: \
  c:\users\mateu\downloads\mingw\x86_64-w64-mingw32\include\crtdefs.h \
  c:\users\mateu\downloads\mingw\lib\gcc\x86_64-w64-mingw32\11.2.0\include\stddef.h \
  c:\users\mateu\downloads\mingw\x86_64-w64-mingw32\include\stddef.h \
- c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\allocator.h \
- c:\users\mateu\downloads\mingw\include\c++\11.2.0\x86_64-w64-mingw32\bits\c++allocator.h \
- c:\users\mateu\downloads\mingw\include\c++\11.2.0\ext\new_allocator.h \
- c:\users\mateu\downloads\mingw\include\c++\11.2.0\new \
- c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\exception.h \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\localefwd.h \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\x86_64-w64-mingw32\bits\c++locale.h \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\clocale \
@@ -92,12 +102,7 @@ CMakeFiles/Taxi.dir/main.cpp.obj: \
  c:\users\mateu\downloads\mingw\x86_64-w64-mingw32\include\pthread_compat.h \
  c:\users\mateu\downloads\mingw\x86_64-w64-mingw32\include\pthread_unistd.h \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\x86_64-w64-mingw32\bits\atomic_word.h \
- c:\users\mateu\downloads\mingw\include\c++\11.2.0\ext\alloc_traits.h \
- c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\alloc_traits.h \
- c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\stl_construct.h \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\string_view \
- c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\functional_hash.h \
- c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\hash_bytes.h \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\string_view.tcc \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\ext\string_conversions.h \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\cstdlib \
@@ -188,11 +193,6 @@ CMakeFiles/Taxi.dir/main.cpp.obj: \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\node_handle.h \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\unordered_map.h \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\erase_if.h \
- c:\users\mateu\downloads\mingw\include\c++\11.2.0\vector \
- c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\stl_uninitialized.h \
- c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\stl_vector.h \
- c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\stl_bvector.h \
- c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\vector.tcc \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\pstl\execution_defs.h \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\fs_dir.h \
  c:\users\mateu\downloads\mingw\include\c++\11.2.0\bits\fs_ops.h
